@@ -2,6 +2,10 @@
 
 A dark-themed, gold-accented inventory management system for small businesses: products, categories, suppliers, stock in/out, transaction history, reports, and role-based access (admin / staff).
 
+Inventory Management System is a modern full-stack web application designed to help businesses efficiently manage products, suppliers, inventory, and sales. It features secure authentication with JWT and email verification, role-based access control, real-time inventory tracking, profit analytics, and an interactive dashboard that provides valuable business insights through a clean and responsive user interface.
+
+This project was developed as part of my journey to learn full-stack web development. I used AI-assisted tools to accelerate development, explore best practices, and better understand concepts while implementing the application. I made a point of studying, testing, and refining each feature to deepen my understanding of React, Node.js, Express, MySQL, authentication, and application security.
+
 ## Project structure
 
 ```
